@@ -123,7 +123,3 @@ python main.py
 
 ## 📝 License | Лицензия
 MIT License | Лицензия MIT
-
-## 📞 Support | Поддержка
-For support, email your@email.com or create an issue in the repository.
-Для поддержки пишите на your@email.com или создавайте issue в репозитории.
